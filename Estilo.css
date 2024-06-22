@@ -1,0 +1,141 @@
+body{
+    text-align: center;
+    font-family: "Times New Roman";
+}
+
+#titulo{
+    margin-left:43%;
+    top:3%;
+    margin-top:auto;
+    width:200px;
+    height:40px;
+    text-align: center;
+    border: 2px solid white;
+    font-size: 22pt;
+    color: white;
+    box-shadow: 2px 2px 2px 2px white;
+}
+
+#paragrafo{
+    width: 650px;
+    word-wrap: break-word;
+    text-align: center;
+    position: absolute;
+    left: 33%;
+    top: 28%;
+    font-size: 22pt;
+    color: white;
+    font-family: "Times New Roman";
+}
+
+#paragrafo2{
+    width: 650px;
+    word-wrap: break-word;
+    text-align: left;
+    position: absolute;
+    left: 33%;
+    top: 15%;
+    font-size: 22pt;
+    color: white;
+    font-family: "Times New Roman";
+}
+
+#menu{
+    width: 70px;
+    position: fixed;
+    border: 1px black solid;
+    background:white ;
+    font-size: 25pt;
+    top: 90%;
+    left: 41.5%;
+    color: white;
+}
+
+#game{
+    width: 70px;
+    position: fixed;
+    border: 1px black solid;
+    background:white ;
+    font-size: 25pt;
+    top: 90%;
+    left: 52%;
+    color: white;
+}
+
+
+canvas{
+    border: 3px solid black;
+}
+
+#botao{
+    width: 120px;
+    font-size: 14pt;
+}
+
+img{
+    position: absolute;
+    left: 5%;
+    top: 20%;
+}
+
+#paragrafo3{
+    width: 230px;
+    position: fixed;
+    font-size: 15pt;
+    top: 10%;
+    left: 12%;
+    color: white;
+    font-family: "Times New Roman";
+}
+
+#teclaW{
+    width: 230px;
+    position: fixed;
+    top: 10%;
+    left: 8%;
+}
+
+#teclaA{
+    width: 230px;
+    position: fixed;
+    top: 22%;
+    left: 8%;
+}
+
+#teclaS{
+    width: 230px;
+    position: fixed;
+    top: 34%;
+    left: 8%;
+}
+
+#teclaD{
+    width: 230px;
+    position: fixed;
+    top: 46%;
+    left: 8%;
+}
+
+#paragrafo4{
+    width: 230px;
+    position: fixed;
+    font-size: 15pt;
+    top: 10%;
+    right: 13%;
+    color: white;
+    font-family: "Times New Roman";
+}
+
+#corona{
+     width: 230px;
+     position: fixed;
+     top: 45%;
+     right: 15%;
+ }
+
+#personagem{
+    width: 230px;
+    position: fixed;
+    top: 59%;
+    right: 15%;
+}
